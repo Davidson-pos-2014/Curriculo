@@ -1,4 +1,0 @@
-Curriculo
-=========
-
-Trabalho Curriculo
